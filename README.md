@@ -1,2 +1,2 @@
-# sistemabiblioteca
-Desenvolvimento e Modelagem de sistema de biblioteca
+# Sistema de Biblioteca
+Desenvolvimento e Modelagem de sistema de biblioteca.
